@@ -3,7 +3,7 @@
 Project Preview
 
 Welcome to the SpaceS ReactJS Example Project! This project serves as a demonstration of how to build a web application using ReactJS to display stunning photos from space. If you're new to ReactJS this project can be a great starting point.
-
+<img width="1439" alt="landing_page1" src = "https://github.com/DianaZymberi/SpaceS-ReactJs/blob/main/public/Screen%20Shot%202023-08-27%20at%2023.59.18.png">
 Getting Started
 
 Installation
